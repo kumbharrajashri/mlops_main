@@ -1,4 +1,4 @@
-import sys
+git import sys
 
 REQUIRED_PYTHON = "python3"
 
